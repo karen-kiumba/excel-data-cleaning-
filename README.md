@@ -2,13 +2,18 @@
 Project overview
 The purpose of the project is to convert a raw, messy and unstructured dataset into a clean and consistent one suitable for analysis.
 
+
 The workbook contains:
 
 sheet 1: original dataset
 
 sheet 2: cleaned and processed dataset
 
+
+
 Tools used: Microsoft Excel
+
+
 
 Steps followed:
 
@@ -43,6 +48,7 @@ step 10: A new column is inserted next to the Location column. In the new column
 step 11: Missing values were dealt with by finding empty space and replacing with N/A. Alternatively, use COUNTBLANK() to find number of missing values in a row. If a row has too many missing values, do away with the row completely.
 
 step 12: The final dataset was made more presentable by adding gridlines, filling the header row and readjusting column width using (alt, h, o, i)
+
 
 Project Outcome
 A clean and consistent dataset that is ready for analysis
