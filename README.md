@@ -11,6 +11,7 @@ sheet 2: cleaned and processed dataset
 Tools used: Microsoft Excel
 
 Steps followed:
+
 step 1: The original raw data is duplicated into a new sheet. This is done for the purpose of refering to the original data at a later date.
 
 step 2: The whole dataset in sheet 2 is selected and duplicates removed.
