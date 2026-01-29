@@ -27,6 +27,7 @@ step 1: The original raw data is duplicated into a new sheet. This is done for t
 step 2: The whole dataset in sheet 2 is selected and duplicates removed.														
 
 step 3: The column names are re-named to ensure that they are clear and understandable. cust is renamed to Customer_ID, Name is renamed to Customer_Name, Age is renamed to Customer_Age,          Gender remains as Gender, marital stat is renamed to Marital Status, Pur Date is renamed to Purchase_Date, Amt is renamed to Amount, Location remains as Location.														
+
 step 4: A new column is inserted next to the Customer_ID column. In the new column, the function TRIM() is used to clean the original Customer_ID column. The new Customer_ID column is            copied then pasted as values. The original messy Customer_ID column is then deleted.
 
 step 5: For the Customer_Name column, the process in step 4 is repeated but this time, TRIM(PROPER()) is used to clean the column.														
@@ -45,6 +46,7 @@ step 11: Missing values were dealt with by finding empty space and replacing wit
 
 step 12: The final dataset was made more presentable by adding gridlines, filling the header row and readjusting column width using (alt, h, o, i)														
 														
+
 Project Outcome:														
 A clean and consistent dataset that is ready for analysis														
 														
