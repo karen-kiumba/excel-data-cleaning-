@@ -6,7 +6,7 @@ Project overview: The purpose of the project is to convert a raw, messy and unst
 
 The workbook contains: 
 
-   sheet 1: audit 													
+   sheet 1: audit trail 													
 
    sheet 2: raw data
 
