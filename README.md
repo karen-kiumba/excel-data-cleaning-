@@ -2,7 +2,8 @@
 														
 Project overview: The purpose of the project is to convert a raw, messy and unstructured dataset into a clean and consistent one suitable for analysis														
 														
-The workbook contains:														
+The workbook contains:
+
 sheet 1: audit trail														
 sheet 2: raw data
 sheet 3: cleaned data
