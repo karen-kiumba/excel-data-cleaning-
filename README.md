@@ -5,18 +5,12 @@ Project overview:
 The purpose of the project is to convert a raw, messy and unstructured dataset into a clean and consistent one suitable for analysis.
 
 
-
-
 The workbook contains
-sheet 1: original dataset
-sheet 2: cleaned and processed dataset
-
-
-
-
+sheet 1: audit trail
+sheet 2: raw data
+sheet 3: cleaned data
 
 Tools used: Microsoft Excel
-
 
 
 Steps followed:
@@ -54,5 +48,5 @@ step 11: Missing values were dealt with by finding empty space and replacing wit
 step 12: The final dataset was made more presentable by adding gridlines, filling the header row and readjusting column width using (alt, h, o, i)
 
 
-Project Outcome
+Project Outcome:
 A clean and consistent dataset that is ready for analysis
