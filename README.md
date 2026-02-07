@@ -1,4 +1,6 @@
- Project: Cleaning data using excel														
+ Project: Cleaning data using excel	
+ ![image alt](https://github.com/karen-kiumba/excel-data-cleaning-/blob/6da512d54eeeaf4aaf6474167e4ec04976558d0a/before.png)
+ ![image alt](https://github.com/karen-kiumba/excel-data-cleaning-/blob/6da512d54eeeaf4aaf6474167e4ec04976558d0a/after.png)
 														
 Project overview: The purpose of the project is to convert a raw, messy and unstructured dataset into a clean and consistent one suitable for analysis														
 														
